@@ -7,6 +7,8 @@ Nele comtempla funcionalidades como de poder procurar uma receita especifica, ex
 
 Foram utilizadas tecnologias com React-Hooks, React-Router, Context API do React para gerenciar estado, [Bibliotecas](##Bibliotecas) e requisições a [APIs](##APIs)
 
+---
+
 ## Instruções
 1. Clone o repositório
   * `git clone git@github.com:tryber/sd-011-project-recipes-app.git`.
@@ -20,7 +22,7 @@ Foram utilizadas tecnologias com React-Hooks, React-Router, Context API do React
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
   
  3. Ajuste a tela para um tamanho mobile
-   * Width: 360 e Height: 680;
+   * `Width: 360 e Height: 680`;
 
 ---
 
