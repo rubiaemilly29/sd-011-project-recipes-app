@@ -12,7 +12,6 @@ Foram utilizadas tecnologias com React-Hooks, React-Router, Context API do React
   * `git clone git@github.com:tryber/sd-011-project-recipes-app.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-011-project-recipes-app`
-  * Vá para a branch do seu grupo, com `git checkout main-group-XX && git pull`, onde `XX` é o número do seu grupo. Exemplos: `main-group-1`, `main-group-22`.
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
@@ -45,13 +44,13 @@ Os end-points também são bastante ricos, você pode [vê-los aqui](https://www
 
 ## Bibliotecas
 
-###`clipboard-copy`
+### Clipboard-copy
 
 Para os componentes que contêm a funcionalidade de favoritar pratos ou bebidas, será necessário utilizar a biblioteca `clipboard-copy` para copiar as informações da receita. Essa biblioteca já vem instalada no projeto.
 
 Para mais informações, consulte a [documentação](https://www.npmjs.com/package/clipboard-copy)
 
-### `Bootstrap` 
+### Bootstrap 
 
 Para estilizações no app, utilizamos da lib `Bootstrap`. 
 
